@@ -1,0 +1,2 @@
+# Civic-Participation
+This project will help city residents keep up with and participate in city government. How can people participate if they don't know what is happening? This project will change that, and make Austin a city where all people get to have a say in matters that pertain to them, and their communities. I ultimately would like to have multiple ways people can engage and interact with this, a webapp, iOS and android.
